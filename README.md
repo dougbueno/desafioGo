@@ -16,15 +16,15 @@ A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
 # Build 
 ```
-docker build -t <seu-user>/desafioGo .
+docker build -t <seu-user>/fullcycle .
 ```
 
 # Pull 
 ```
-docker pull lucas770/fullcycle
+docker pull dougbueno/fullcycle
 ```
 
 # Executar o container
 ```
-docker run --rm lucas770/fullcycle
+docker run --rm dougbueno/fullcycle
 ```
